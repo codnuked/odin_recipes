@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+
+.links.recipe {
+    font-family: 'Tahoma', Arial, sans-serif;
+    font-weight: 400px;
+    color: gold;
+}
